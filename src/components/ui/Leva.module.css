@@ -1,0 +1,8 @@
+.root select {
+  background-color: gray;
+  overflow: hidden;
+}
+
+.root select + div {
+  overflow: hidden;
+}
