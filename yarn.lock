@@ -966,10 +966,10 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@oieduardorabelo/use-user-agent@^4.0.0":
-  version "4.0.0"
-  resolved "https://registry.npmjs.org/@oieduardorabelo/use-user-agent/-/use-user-agent-4.0.0.tgz"
-  integrity sha512-yVvlmZWT10xmGZzwIiLIasP+cBa9V5ZM8RXCu9pz+Xeg1xp1gu2bjzmZMEjIaML/DjUV18H+XfZCRR0b+JPoGQ==
+"@oieduardorabelo/use-user-agent@^5.0.1":
+  version "5.0.1"
+  resolved "https://registry.npmjs.org/@oieduardorabelo/use-user-agent/-/use-user-agent-5.0.1.tgz"
+  integrity sha512-dmoIMC4tMlK01slckw5ha5gDTYCYmXCL/HHslQSUd2kEU2s2wnBB66x1W0cvNBVZLutCdENsDZv9LE5YtP1EAQ==
   dependencies:
     ua-parser-js "1.0.2"
 
